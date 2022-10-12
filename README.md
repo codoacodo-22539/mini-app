@@ -7,5 +7,4 @@ si desean utilizar el script en un archivo js. deberian instalarse una extension
 
 extension es: live server
 
-![Alt text](relative/liver-server?raw=true "Title")
-
+![Screenshot](liver-server.png)
