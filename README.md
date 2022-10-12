@@ -1,10 +1,12 @@
 ## mini APP
 
 
-Para que pueda funcionar y no bloquee el script el navegador se metio el script dentro del html 
+Para que pueda funcionar en el navegador y No bloquee el script:
 
-si desean utilizar el script en un archivo js. deberian instalarse una extension en visual studio code para crear un live server
+1. Se coloco el codigo js en el html
 
-extension es: live server
+2. Si desean utilizar el script en un archivo js diferente. Deberian instalarse una extension en visual studio code para crear un live server.
+
+Extension: Live server
 
 ![Screenshot](liver-server.png)
