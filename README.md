@@ -1,5 +1,6 @@
-## mini APP
+# Titulo mas Grande
 
+## Mini APP
 
 Para que pueda funcionar en el navegador y No bloquee el script:
 
@@ -9,4 +10,11 @@ Para que pueda funcionar en el navegador y No bloquee el script:
 
 Extension: Live server
 
-![Screenshot](liver-server.png)
+```sh
+
+ Aca va una parte de un codigo
+
+```
+
+
+![Screenshot](./docs/liver-server.png)
